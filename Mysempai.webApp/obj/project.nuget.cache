@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3s3OoLPLj/SlWeABf+0aG9+yxk70I+KrqtN3UWC68T3c4PJ/Jn2tYhWikLAZCINqvDJmwSBbdTetviinFRMzzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\you\\Project\\mysempai2.3\\Mysempai.WebApp\\Mysempai.WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\you\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
